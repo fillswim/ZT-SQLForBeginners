@@ -1,0 +1,31 @@
+/*Вывод физического адреса строки*/
+select rowid, last_name, salary from employees;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
